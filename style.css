@@ -10,5 +10,9 @@ body {
     display: flex;
     justify-content: space-evenly;
     height: 50%;
-    background-color: rgb(34, 113, 182);                                                                                                                                            
+    background-color: rgb(34, 113, 182);                                                                                                                                          
+}
+
+.nav-button {
+    background-color: rgb(255, 157, 29);
 }
