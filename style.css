@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: beige;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-evenly;
+    height: 50%;
+    background-color: rgb(34, 113, 182);                                                                                                                                            
+}
